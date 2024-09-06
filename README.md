@@ -29,4 +29,4 @@ Telegram：[@NapCatTeam](https://t.me/Meow0o00)
 
 ## 注意
 
-在运行之前请确保您已安装[java22](https://download.oracle.com/java/22/archive/jdk-22.0.1_windows-x64_bin.msi)<br>
+在运行之前请确保您已安装 [java22](https://download.oracle.com/java/22/archive/jdk-22.0.1_windows-x64_bin.msi)<br>
