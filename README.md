@@ -1,2 +1,2 @@
 # NapCatPlugin
-在此仓库您将拥有NapCat群组服务器所编写的插件
+插件预览
