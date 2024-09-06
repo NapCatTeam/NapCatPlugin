@@ -25,8 +25,8 @@
 ## 联系我们
 如果你有任何问题(添加HWID)或需要帮助，请通过以下方式与我们联系：
 
-Twitter：[@](https://t.me/Meow0o00)NapCatTeam
+Twitter：[@NapCatTeam](https://t.me/Meow0o00)
 
 ## 注意
 
-在运行之前请确保您已安装[java21+](https://download.oracle.com/java/22/archive/jdk-22.0.1_windows-x64_bin.msi)<br>
+在运行之前请确保您已安装[java22](https://download.oracle.com/java/22/archive/jdk-22.0.1_windows-x64_bin.msi)<br>
