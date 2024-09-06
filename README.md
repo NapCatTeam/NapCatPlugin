@@ -22,5 +22,10 @@
 3.命令：<br>
   使用 /napcat: 来执行插件的主要功能。<br>
 
+## 联系我们
+如果你有任何问题或需要帮助，请通过以下方式与我们联系：
+
+Twitter：[@](https://t.me/Meow0o00)
+
 
 在运行之前请确保您已安装java21+(https://download.oracle.com/java/22/archive/jdk-22.0.1_windows-x64_bin.msi)<br>
