@@ -25,7 +25,7 @@
 ## 联系我们
 如果你有任何问题(添加HWID)或需要帮助，请通过以下方式与我们联系：
 
-Twitter：[@NapCatTeam](https://t.me/Meow0o00)
+Telegram：[@NapCatTeam](https://t.me/Meow0o00)
 
 ## 注意
 
